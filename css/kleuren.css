@@ -1,0 +1,32 @@
+body{
+ background-color: powderblue;
+ padding: 5px;
+}
+header{
+  background-color: mediumturquoise;
+  padding: 5px;
+  border-radius: 5px;
+}
+footer{
+  background-color: teal;
+  color: lightgrey;
+  padding: 5px;
+  border-radius: 5px;
+  height: 125px;
+}
+.logo{
+
+}
+button{
+  background-color: teal;
+  border: 1px solid #000000;
+  border-radius: 12px;
+  padding: 12px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 10px;
+}
+.button{
+  text-decoration: none;
+  color: lightgrey;
+}
